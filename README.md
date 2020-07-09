@@ -9,6 +9,7 @@ This is intentionally a very basic Django project; it includes just enough code 
 ## Requirements
 
 - Any Python environment capable of running Django.
+- I think the Python environment will require building with SQlite support (which is the default in almost all cases); however I've not tested running without.
 
 ## Installation
 
